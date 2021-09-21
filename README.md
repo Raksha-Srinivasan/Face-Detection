@@ -8,4 +8,8 @@ Haar Cascade classifier is used here to analyze pixels in the image into squares
 
 
 # Module to be installed:
-<b>1.pip install openCV-python</b>
+<b>1.pip install opencv-python</b>
+
+Block Diagram
+
+![Block-Diagram](https://user-images.githubusercontent.com/75809224/134204519-40180f1c-f27b-46f2-8519-adff15420c1a.PNG)
